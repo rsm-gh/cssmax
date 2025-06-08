@@ -1,0 +1,4 @@
+
+test/output*.css
+.idea/
+__pycache__/
