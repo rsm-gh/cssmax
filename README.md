@@ -1,9 +1,9 @@
 # CSSMAX
 
-`cssmax` is a Python module to decompress (un-minify or unpack) CSS code, but **not to beautify CSS.** Before decompressing, it will compress by using `cssmin` 
-and all the comments will go away.
+`cssmax` is a Python module to decompress (un-minify or unpack) CSS code, but **not to beautify CSS.** It will only work,
+if the CSS is already compressed.
 
-**Note:** Before using, you need to install `cssmin`.
+For testing, `cssmin` is used to compress the code.
 
 **History**
 
