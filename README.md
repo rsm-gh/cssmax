@@ -5,6 +5,6 @@ and all the comments will go away.
 
 **History**
 
-* 2015-2018: Originally named [css_decompressor](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/data/css_decompressor) created for [Blue Fish](http://bluefish.openoffice.nl/index.html) under the GPL3 license.
+* 2015-2018: Originally named [css_decompressor](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/data/css_decompressor) and created for [Blue Fish](http://bluefish.openoffice.nl/index.html) under the GPL3 license.
 * 2024: Micro-maintenance update, and it was re-licensed under the MIT license.
 * 2025: it was renamed to `cssmax`.
